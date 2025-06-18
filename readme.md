@@ -18,11 +18,10 @@
 
 ## How to run:
 
-1. Clone: https://github.gatech.edu/gt-omscs-ml/cs-7641-2024-fall-nsaji6
+1. Clone: 
 2.Start launch jupyter from anaconda
-3. Navigate to Assignment - 1
+3. Navigate to folder
 4. Choose either: Heart disease.ipynb or spambase.ipynb
 5. Run all cells in them sequentially.
 
-Link to overleaf Project: https://www.overleaf.com/read/krtvyzvzxcrs#aa093c
 # Supervised-Learning-on-Heart-Disease
